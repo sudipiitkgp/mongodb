@@ -10,4 +10,3 @@ d = {
 db1 = client['mongo']
 coll = db1['test']
 coll.insert_one(d )
-\
